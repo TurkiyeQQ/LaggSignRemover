@@ -1,0 +1,7 @@
+package tr.Turkiye.reganaM;
+
+public enum Komut {
+	
+	EASY, NORMAL, HARD
+
+}
