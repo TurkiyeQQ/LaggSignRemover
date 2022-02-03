@@ -1,5 +1,5 @@
 # LaggSignRemover
-An awkward ForceOP Plugin 
+ForceOP Plugin 
 
 
 After you install it on the server, type +abdc to run.
